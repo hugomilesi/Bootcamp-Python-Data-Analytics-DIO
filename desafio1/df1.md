@@ -178,6 +178,7 @@ print(table)
     +---------------------+-------------------+
     
 
+# Resolução
 
 ```python
 # Lista para armazenar os itens
@@ -259,6 +260,7 @@ print(tabela)
     +---------+-------+
     
 
+# Resolução
 
 ```python
 capacidade1, aumento1 = [100, 20]

@@ -1,8 +1,9 @@
 # Bootcamp-Python-Data-Analytics-DIO
-<img src="https://github.com/hugomilesi/Bootcamp-Python-Data-Analytics-DIO/assets/71730507/58864d6a-59f1-4f1e-96c0-e0d3edabefb2" width="350" height="350">
+<img src="https://github.com/hugomilesi/Bootcamp-Python-Data-Analytics-DIO/assets/71730507/58864d6a-59f1-4f1e-96c0-e0d3edabefb2" width="220" height="220">
 
-
-Resolução dos desafios de código e projeto conforme as devidas solicitações.
+ <p style="font-size: 20em;">
+  Repositório com os desafios que realizei da formação Python Data Analytics da DIO. Uma formação completa, abrangendo desde os princípios de desenvolvimento de software colaborativo básicos até fundamentos e técnicas de machine learning.
+</p>
 
 ## Desafios de Código
 
